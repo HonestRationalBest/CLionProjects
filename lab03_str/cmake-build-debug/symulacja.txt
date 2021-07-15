@@ -1,0 +1,7 @@
+Krok symulacji: 0
+
+ Glony * : 0
+ Grzyby # : 0
+Bakterie @ : 0
+ Martwe + : 0
+

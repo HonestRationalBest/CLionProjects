@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/linux9_1.dir/client.c.o CMakeFiles/linux9_1.dir/server.c.o -o linux9_1 

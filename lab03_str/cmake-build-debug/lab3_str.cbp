@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab3_str"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pavel/CLionProjects/lab03_str/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/pavel/CLionProjects/lab03_str/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/pavel/CLionProjects/lab03_str/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab3_str">
+				<Option output="/home/pavel/CLionProjects/lab03_str/cmake-build-debug/lab3_str" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pavel/CLionProjects/lab03_str/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab3_str"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab3_str/fast">
+				<Option output="/home/pavel/CLionProjects/lab03_str/cmake-build-debug/lab3_str" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pavel/CLionProjects/lab03_str/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab3_str/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/pavel/CLionProjects/lab03_str/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/GeneratorLosowy.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/GeneratorLosowy.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Mieszkaniec.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Mieszkaniec.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Nisza.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Nisza.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Organizm.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Organizm.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Osobniki.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Osobniki.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Sasiedztwo.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Sasiedztwo.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Srodowisko.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Srodowisko.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Ustawienia.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/ZLab03.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/ZLab03.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Zlab06.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Zlab06.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Zlab09.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Zlab09.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Zlab10.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Zlab10.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Zlab12.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/Zlab12.h">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/main.cpp">
+			<Option target="lab3_str"/>
+		</Unit>
+		<Unit filename="/home/pavel/CLionProjects/lab03_str/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

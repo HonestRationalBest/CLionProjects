@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/prapareToCol.dir/main.cpp.o CMakeFiles/prapareToCol.dir/Figura.cpp.o -o prapareToCol 

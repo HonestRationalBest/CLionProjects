@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab04_str.dir/main.cpp.o CMakeFiles/lab04_str.dir/ustawienia.cpp.o  -o lab04_str 

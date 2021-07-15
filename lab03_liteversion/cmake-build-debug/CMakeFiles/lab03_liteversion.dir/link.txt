@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab03_liteversion.dir/main.cpp.o CMakeFiles/lab03_liteversion.dir/ZLab03.cpp.o -o lab03_liteversion 

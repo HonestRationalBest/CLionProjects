@@ -1,0 +1,3 @@
+/home/pavel/CLionProjects/linux9.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pavel/CLionProjects/linux9.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pavel/CLionProjects/linux9.1/cmake-build-debug/CMakeFiles/linux9_1.dir

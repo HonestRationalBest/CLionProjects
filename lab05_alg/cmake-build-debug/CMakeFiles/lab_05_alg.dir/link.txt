@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab_05_alg.dir/main.cpp.o -o lab_05_alg 

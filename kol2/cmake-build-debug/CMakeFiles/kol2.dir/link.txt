@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/kol2.dir/main.cpp.o -o kol2 

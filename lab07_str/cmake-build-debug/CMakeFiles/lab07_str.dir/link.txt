@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab07_str.dir/main.cpp.o CMakeFiles/lab07_str.dir/Osobniki.cpp.o CMakeFiles/lab07_str.dir/Mieszakniec.cpp.o CMakeFiles/lab07_str.dir/Organizm.cpp.o -o lab07_str 

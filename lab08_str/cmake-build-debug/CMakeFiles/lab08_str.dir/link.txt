@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab08_str.dir/main.cpp.o -o lab08_str 

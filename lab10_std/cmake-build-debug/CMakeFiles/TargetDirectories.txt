@@ -1,0 +1,3 @@
+/home/pavel/CLionProjects/lab10_std/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pavel/CLionProjects/lab10_std/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pavel/CLionProjects/lab10_std/cmake-build-debug/CMakeFiles/lab10_std.dir

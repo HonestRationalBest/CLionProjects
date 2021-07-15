@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab11.dir/cykloczna.cpp.o CMakeFiles/lab11.dir/DK.cpp.o CMakeFiles/lab11.dir/DKC.cpp.o CMakeFiles/lab11.dir/JK.cpp.o CMakeFiles/lab11.dir/JKC.cpp.o CMakeFiles/lab11.dir/main.cpp.o -o lab11 

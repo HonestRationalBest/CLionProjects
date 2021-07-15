@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pavel/CLionProjects/untitled2/ZLab02.cpp
+ZLab02.h
+/home/pavel/CLionProjects/untitled2/ZLab02.h
+random
+-
+iostream
+-
+limits
+-
+typeinfo
+-
+cmath
+-
+
+/home/pavel/CLionProjects/untitled2/ZLab02.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab06_str.dir/main.cpp.o CMakeFiles/lab06_str.dir/Zlab03.cpp.o CMakeFiles/lab06_str.dir/Zlab06.cpp.o CMakeFiles/lab06_str.dir/Mieszkaniec.cpp.o -o lab06_str 

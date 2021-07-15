@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab08_alg.dir/main.cpp.o -o lab08_alg 

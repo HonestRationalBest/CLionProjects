@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab_05_str.dir/main.cpp.o CMakeFiles/lab_05_str.dir/Sasiedztwo.cpp.o CMakeFiles/lab_05_str.dir/GeneratorLosowy.cpp.o -o lab_05_str 
